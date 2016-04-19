@@ -1,0 +1,834 @@
+{
+    "ECS 020": {
+        "description": "Discrete Math for CS",
+        "end": {
+            "dateTime": "2016-03-28T11:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "GIEDT 01001",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T11:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 020"
+    },
+    "ECS 020 A02": {
+        "description": "Discrete Math for CS Discussion",
+        "end": {
+            "dateTime": "2016-03-31T13:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00226",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-31T12:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 020 A02"
+    },
+    "ECS 020 A03": {
+        "description": "Discrete Math for CS Discussion",
+        "end": {
+            "dateTime": "2016-03-29T18:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00230",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T17:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 020 A03"
+    },
+    "ECS 020 A04": {
+        "description": "Discrete Math for CS Discussion",
+        "end": {
+            "dateTime": "2016-03-31T14:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00217",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-31T13:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 020 A04"
+    },
+    "ECS 030": {
+        "description": "Programming&Prob Solving",
+        "end": {
+            "dateTime": "2016-03-28T10:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "ROCK 00000",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T10:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 030"
+    },
+    "ECS 030 A01": {
+        "description": "Programming&Prob Solving Discussion",
+        "end": {
+            "dateTime": "2016-03-30T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00158",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=WE"
+        ],
+        "start": {
+            "dateTime": "2016-03-30T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 030 A01"
+    },
+    "ECS 030 A02": {
+        "description": "Programming&Prob Solving Discussion",
+        "end": {
+            "dateTime": "2016-03-28T16:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "ART 00204",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 030 A02"
+    },
+    "ECS 030 A03": {
+        "description": "Programming&Prob Solving Discussion",
+        "end": {
+            "dateTime": "2016-03-28T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00158",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 030 A03"
+    },
+    "ECS 030 A04": {
+        "description": "Programming&Prob Solving Discussion",
+        "end": {
+            "dateTime": "2016-03-28T09:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00230",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T09:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 030 A04"
+    },
+    "ECS 030 A05": {
+        "description": "Programming&Prob Solving Discussion",
+        "end": {
+            "dateTime": "2016-03-28T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "ART 00204",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 030 A05"
+    },
+    "ECS 030 A06": {
+        "description": "Programming&Prob Solving Discussion",
+        "end": {
+            "dateTime": "2016-03-29T18:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HART 01130",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T17:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 030 A06"
+    },
+    "ECS 040": {
+        "description": "Software &Obj-Orient Prg",
+        "end": {
+            "dateTime": "2016-03-28T09:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "GIEDT 01001",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T09:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 040"
+    },
+    "ECS 040 A01": {
+        "description": "Software &Obj-Orient Prg Discussion",
+        "end": {
+            "dateTime": "2016-03-30T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00001",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=WE"
+        ],
+        "start": {
+            "dateTime": "2016-03-30T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 040 A01"
+    },
+    "ECS 040 A02": {
+        "description": "Software &Obj-Orient Prg Discussion",
+        "end": {
+            "dateTime": "2016-03-28T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "YOUNG 00184",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 040 A02"
+    },
+    "ECS 040 A03": {
+        "description": "Software &Obj-Orient Prg Discussion",
+        "end": {
+            "dateTime": "2016-03-29T19:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00001",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T18:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 040 A03"
+    },
+    "ECS 040 A04": {
+        "description": "Software &Obj-Orient Prg Discussion",
+        "end": {
+            "dateTime": "2016-04-01T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00001",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 040 A04"
+    },
+    "ECS 040 A05": {
+        "description": "Software &Obj-Orient Prg Discussion",
+        "end": {
+            "dateTime": "2016-03-31T11:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HARING 01204",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-31T11:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 040 A05"
+    },
+    "ECS 050": {
+        "description": "Machine Dependent Prog",
+        "end": {
+            "dateTime": "2016-03-28T14:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "STORER 01322",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T13:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 050"
+    },
+    "ECS 050 A01": {
+        "description": "Machine Dependent Prog Discussion",
+        "end": {
+            "dateTime": "2016-04-01T16:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00001",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 050 A01"
+    },
+    "ECS 050 A02": {
+        "description": "Machine Dependent Prog Discussion",
+        "end": {
+            "dateTime": "2016-03-28T18:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "CRUESS 00107",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T17:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 050 A02"
+    },
+    "ECS 050 A03": {
+        "description": "Machine Dependent Prog Discussion",
+        "end": {
+            "dateTime": "2016-03-31T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00147",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-31T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 050 A03"
+    },
+    "ECS 060": {
+        "description": "Data Structures and Prog",
+        "end": {
+            "dateTime": "2016-03-28T13:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HUNT 00100",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T12:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 060"
+    },
+    "ECS 060 A01": {
+        "description": "Data Structures and Prog Discussion",
+        "end": {
+            "dateTime": "2016-03-31T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HART 01150",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-31T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 060 A01"
+    },
+    "ECS 060 A02": {
+        "description": "Data Structures and Prog Discussion",
+        "end": {
+            "dateTime": "2016-03-28T16:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "YOUNG 00184",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 060 A02"
+    },
+    "ECS 060 A03": {
+        "description": "Data Structures and Prog Discussion",
+        "end": {
+            "dateTime": "2016-04-01T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "CHEM 00166",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 060 A03"
+    },
+    "ECS 120": {
+        "description": "Theory Computation",
+        "end": {
+            "dateTime": "2016-03-29T18:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00126",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU,TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T16:40:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 120"
+    },
+    "ECS 120 A01": {
+        "description": "Theory Computation Discussion",
+        "end": {
+            "dateTime": "2016-03-30T09:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "CHEM 00166",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=WE"
+        ],
+        "start": {
+            "dateTime": "2016-03-30T09:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 120 A01"
+    },
+    "ECS 122A": {
+        "description": "Algorithm Design",
+        "end": {
+            "dateTime": "2016-03-28T10:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "GIEDT 01001",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T10:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 122A"
+    },
+    "ECS 122A A01": {
+        "description": "Algorithm Design Discussion",
+        "end": {
+            "dateTime": "2016-03-28T14:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HART 01130",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T13:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 122A A01"
+    },
+    "ECS 122A A02": {
+        "description": "Algorithm Design Discussion",
+        "end": {
+            "dateTime": "2016-03-31T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HART 01130",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-31T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 122A A02"
+    },
+    "ECS 122A A04": {
+        "description": "Algorithm Design Discussion",
+        "end": {
+            "dateTime": "2016-03-28T16:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00205",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 122A A04"
+    },
+    "ECS 122B": {
+        "description": "Algorithm Design",
+        "end": {
+            "dateTime": "2016-03-28T09:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HARING 01227",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T09:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 122B"
+    },
+    "ECS 122B 001": {
+        "description": "Algorithm Design Discussion",
+        "end": {
+            "dateTime": "2016-03-29T13:30:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00006",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU,TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T12:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 122B 001"
+    },
+    "ECS 127": {
+        "description": "Cryptography",
+        "end": {
+            "dateTime": "2016-03-28T13:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "GIEDT 01002",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T12:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 127"
+    },
+    "ECS 127 A01": {
+        "description": "Cryptography Discussion",
+        "end": {
+            "dateTime": "2016-03-28T16:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00212",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 127 A01"
+    },
+    "ECS 127 A02": {
+        "description": "Cryptography Discussion",
+        "end": {
+            "dateTime": "2016-03-28T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00234",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 127 A02"
+    },
+    "ECS 150": {
+        "description": "Operating Systems",
+        "end": {
+            "dateTime": "2016-03-29T10:20:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HARING 02205",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU,TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T09:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 150"
+    },
+    "ECS 150 001": {
+        "description": "Operating Systems Discussion",
+        "end": {
+            "dateTime": "2016-04-01T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HARING 02205",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 150 001"
+    },
+    "ECS 152B": {
+        "description": "Computer Networks",
+        "end": {
+            "dateTime": "2016-03-28T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HUTCH 00115",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 152B"
+    },
+    "ECS 152B 001": {
+        "description": "Computer Networks Discussion",
+        "end": {
+            "dateTime": "2016-04-01T16:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HUTCH 00115",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 152B 001"
+    },
+    "ECS 153": {
+        "description": "Computer Security",
+        "end": {
+            "dateTime": "2016-03-29T10:20:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00106",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU,TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T09:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 153"
+    },
+    "ECS 153 A01": {
+        "description": "Computer Security Discussion",
+        "end": {
+            "dateTime": "2016-03-30T16:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HOAGLD 00108",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=WE"
+        ],
+        "start": {
+            "dateTime": "2016-03-30T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 153 A01"
+    },
+    "ECS 153 A02": {
+        "description": "Computer Security Discussion",
+        "end": {
+            "dateTime": "2016-04-01T14:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "GIEDT 01006",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T13:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 153 A02"
+    },
+    "ECS 153 A03": {
+        "description": "Computer Security Discussion",
+        "end": {
+            "dateTime": "2016-03-30T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "CHEM 00166",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=WE"
+        ],
+        "start": {
+            "dateTime": "2016-03-30T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 153 A03"
+    },
+    "ECS 154B": {
+        "description": "Computer Architecture",
+        "end": {
+            "dateTime": "2016-03-29T11:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "YOUNG 00194",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU,TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T10:30:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 154B"
+    },
+    "ECS 154B 001": {
+        "description": "Computer Architecture Discussion",
+        "end": {
+            "dateTime": "2016-04-01T17:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "YOUNG 00194",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T16:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 154B 001"
+    },
+    "ECS 158": {
+        "description": "Parallel Architectures",
+        "end": {
+            "dateTime": "2016-03-28T11:50:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "HARING 02016",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=MO,WE,FR"
+        ],
+        "start": {
+            "dateTime": "2016-03-28T11:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 158"
+    },
+    "ECS 158 001": {
+        "description": "Parallel Architectures Discussion",
+        "end": {
+            "dateTime": "2016-04-01T14:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00212",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T13:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 158 001"
+    },
+    "ECS 165B": {
+        "description": "Database Systems",
+        "end": {
+            "dateTime": "2016-03-29T16:30:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00118",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU,TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T15:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 165B"
+    },
+    "ECS 165B 001": {
+        "description": "Database Systems Discussion",
+        "end": {
+            "dateTime": "2016-04-01T18:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "OLSON 00106",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=FR"
+        ],
+        "start": {
+            "dateTime": "2016-04-01T17:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 165B 001"
+    },
+    "ECS 178": {
+        "description": "Geometric Modeling",
+        "end": {
+            "dateTime": "2016-03-29T19:30:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "ART 00217",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=TU,TH"
+        ],
+        "start": {
+            "dateTime": "2016-03-29T18:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 178"
+    },
+    "ECS 178 001": {
+        "description": "Geometric Modeling Discussion",
+        "end": {
+            "dateTime": "2016-03-30T15:00:00",
+            "timeZone": "US/Pacific"
+        },
+        "location": "WELLMN 00234",
+        "recurrence": [
+            "RRULE:FREQ=WEEKLY;UNTIL=20160602;BYDAY=WE"
+        ],
+        "start": {
+            "dateTime": "2016-03-30T14:10:00",
+            "timeZone": "US/Pacific"
+        },
+        "summary": "ECS 178 001"
+    }
+}
